@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+      <url>
+        <loc>https://theimageresizer.com/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/resize</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/compress</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/convert</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/crop</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/amazon-product-image-resizer</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/linkedin-image-resizer</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/spotify-image-maker</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/shopify-image-maker</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/passport-photo-maker</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/blog</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/about</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/terms</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/privacy</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+
+      <url>
+        <loc>https://theimageresizer.com/disclaimer</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+      </url>
+    
+  </urlset>

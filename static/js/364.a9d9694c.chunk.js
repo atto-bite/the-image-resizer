@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_image_resizer=self.webpackChunkthe_image_resizer||[]).push([[364],{8364:(e,s,a)=>{e.exports=a.p+"static/media/how-to-resize-for-amazon.29740cdf23baf5c4769c.md"}}]);

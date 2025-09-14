@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_image_resizer=self.webpackChunkthe_image_resizer||[]).push([[690],{3690:(e,i,s)=>{e.exports=s.p+"static/media/linkedin-image-editor.2c63f84145dd37bb1dbc.md"}}]);

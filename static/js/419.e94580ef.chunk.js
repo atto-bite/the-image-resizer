@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_image_resizer=self.webpackChunkthe_image_resizer||[]).push([[419],{5419:(e,t,a)=>{e.exports=a.p+"static/media/photo-too-big-to-email.89f3a380a718dff96248.md"}}]);

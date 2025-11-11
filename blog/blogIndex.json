@@ -1,16 +1,16 @@
 [
   {
-    "slug": "how-to-resize-for-amazon",
-    "title": "How to Resize Images for Amazon Products",
-    "date": "2025-02-15",
-    "description": "Learn the exact Amazon product image dimensions and resizing tips.",
-    "file": "/blog/posts/how-to-resize-for-amazon.md"
-  },
-  {
-    "slug": "linkedin-image-editor",
-    "title": "LinkedIn Image Size Guide",
-    "date": "2025-02-20",
-    "description": "Optimize your LinkedIn profile and cover photos for best visibility.",
-    "file": "/blog/posts/linkedin-image-editor.md"
-  }
+  "slug": "photo-too-big-to-email",
+  "title": "Why Is My Photo 'Too Big to Email'? (And How to Fix It in 10 Seconds)",
+  "date": "2025-02-25",
+  "description": "Find out why images are often too large to send via email and how to instantly reduce the file size without losing visual quality.",
+  "file": "/blog/posts/photo-too-big-to-email.md"
+},
+{
+  "slug": "jpg-vs-png-vs-webp",
+  "title": "JPG vs. PNG vs. WebP: Which Image Format Is Best for Your Website?",
+  "date": "2025-02-28",
+  "description": "Learn when to use JPG, PNG, or WebP — and how to convert instantly for faster website loading and better SEO.",
+  "file": "/blog/posts/jpg-vs-png-vs-webp.md"
+}
 ]

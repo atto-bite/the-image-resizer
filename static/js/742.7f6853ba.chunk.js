@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkthe_image_resizer=self.webpackChunkthe_image_resizer||[]).push([[742],{9742:(e,s,p)=>{e.exports=p.p+"static/media/jpg-vs-png-vs-webp.fb801d7eedbf80121939.md"}}]);
